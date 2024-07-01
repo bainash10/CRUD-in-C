@@ -10,7 +10,7 @@ This C program demonstrates basic CRUD operations (Create, Read, Update, Delete)
 - **Delete Record**: Remove a student record from `students.txt` by name.
 
 ## File Structure
-- student_records.c: Source code file containing the main program logic.
+- main.c: Source code file containing the main program logic.
 - students.txt: Text file used to store student records.
 
 ## Note
